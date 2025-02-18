@@ -28,6 +28,7 @@
 ```bash
 git clone https://github.com/JimenaD-creator/NutriScale.git
 cd NutriScale
+```
 - Open the project in Android Studio:
   Select Open an existing Android Studio project and navigate to the project folder.
 - Set up the emulator or connect a physical device:
