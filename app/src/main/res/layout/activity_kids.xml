@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B8B1B1"
+    android:orientation="vertical"
+    android:textAlignment="center"
+    tools:context=".kids">
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="match_parent"
+        android:layout_height="258dp"
+        android:background="#4CAF50"
+        app:srcCompat="@drawable/img_6" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="@string/sex"
+        android:textColor="#0E0C0C"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/etsexo3"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="@string/sex1"
+        android:inputType="textPersonName"
+        android:textColor="#184E1A"
+        android:textColorHint="#479C4B"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="@string/tvpeso"
+        android:textColor="#151111"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/etpeso2"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="@string/etpeso"
+        android:inputType="numberDecimal"
+        android:textColor="#184E1A"
+        android:textColorHint="#479C4B"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="@string/tvestatura"
+        android:textColor="#090808"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/etest2"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="@string/etest"
+        android:inputType="numberDecimal"
+        android:textColor="#184E1A"
+        android:textColorHint="#479C4B"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_calcular2"
+        android:layout_width="match_parent"
+        android:layout_height="63dp"
+        android:background="@drawable/shape_button"
+        android:text="@string/calcular"
+        android:textColor="#090808"
+        android:textSize="20sp"
+        app:backgroundTint="#1F8E23"
+        app:icon="@drawable/calcular"
+        app:iconGravity="textStart" />
+
+    <TextView
+        android:id="@+id/tv_imc2"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn_back3"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:background="@drawable/shape_button"
+        android:text="@string/b1"
+        android:textColor="#0C0B0B"
+        android:textSize="20sp"
+        app:backgroundTint="#1F8E23"
+        app:icon="@drawable/atras1"
+        app:iconGravity="textStart" />
+
+</LinearLayout>

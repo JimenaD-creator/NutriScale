@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B8B1B1"
+    android:orientation="vertical"
+    android:textAlignment="center"
+    tools:context=".teenagers">
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="255dp"
+        android:background="#4CAF50"
+        app:srcCompat="@drawable/img_7" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="@string/sexo"
+        android:textColor="#0C0B0B"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/etsexo4"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="@string/etsexo"
+        android:inputType="textPersonName"
+        android:textColor="#184E1A"
+        android:textColorHint="#479C4B"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="@string/tvpeso"
+        android:textColor="#120E0E"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/etpeso3"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="@string/etpeso"
+        android:inputType="numberDecimal"
+        android:textColor="#184E1A"
+        android:textColorHint="#479C4B"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="@string/tvestatura"
+        android:textColor="#100D0D"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/etest3"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="@string/etest"
+        android:inputType="numberDecimal"
+        android:textColor="#184E1A"
+        android:textColorHint="#479C4B"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_calcular3"
+        android:layout_width="match_parent"
+        android:layout_height="63dp"
+        android:background="@drawable/shape_button"
+        android:text="@string/calcular"
+        android:textColor="#070606"
+        android:textSize="20sp"
+        app:backgroundTint="#1F8E23"
+        app:icon="@drawable/calcular"
+        app:iconGravity="textStart" />
+
+    <TextView
+        android:id="@+id/tv_imc3"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn_back4"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:background="@drawable/shape_button"
+        android:text="@string/b1"
+        android:textColor="#0C0B0B"
+        android:textSize="20sp"
+        app:backgroundTint="#1F8E23"
+        app:icon="@drawable/atras1"
+        app:iconGravity="textStart" />
+
+</LinearLayout>

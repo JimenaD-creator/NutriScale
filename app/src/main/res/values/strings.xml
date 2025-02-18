@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">NutriScale</string>
+    <string name="tec">TECHNO-APPS</string>
+    <string name="slogan">SOFTWARE DESIGN</string>
+    <string name="log">LOGOTIPO</string>
+    <string name="header">Cabecera</string>
+    <string name="iv_image">Nutricion</string>
+    <string name="name">Nutri Scale</string>
+    <string name="frase">La mejor manera de calcular tu IMC</string>
+    <string name="t1"> Ven y conoce el nivel de grasa corporal en el que se encuentra cualquier persona desde cualquier edad (bebé a adulto) en base al peso y estatura, además de, de acuerdo al resultado, ver una serie de recomendaciones para mejorar la salud y evitar enfermedades.</string>
+    <string name="imc">IMC</string>
+    <string name="n1">Siguiente</string>
+
+    <string name="btn1">Niños de 0 a 11 meses</string>
+    <string name="btn2">Niños de 1 a 4 años</string>
+    <string name="btn3">Niños de 5 a 9 años</string>
+    <string name="btn4">Adolescentes</string>
+    <string name="btn5">Adultos</string>
+    <string name="btn6">Adultos mayores</string>
+    <string name="t2">Rango de Edades</string>
+
+
+    <string name="tvedad">Edad (años):</string>
+    <string name="etedad">Ingrese la edad</string>
+    <string name="tvpeso">Peso (kg):</string>
+    <string name="etpeso">Eje: 1 ó 25</string>
+    <string name="tvestatura">Estatura (m):</string>
+    <string name="etest"> Eje: 1 ó 1.75</string>
+    <string name="calcular">Calcular</string>
+    <string name="n3">HAZ CLIC AQUÍ PARA VER RECOMENDACIONES</string>
+    <string name="b1">Regresar</string>
+
+    <string name="tvage">Edad (meses):</string>
+    <string name="sex">Género (Niño o Niña):</string>
+    <string name="sex1">Eje: Niño:</string>
+    <string name="rec10">¿POR QUÉ ES IMPORTANTE MANTENER UN PESO SALUDABLE?</string>
+
+
+    <string name="sexo">Género (Hombre o Mujer):</string>
+    <string name="etsexo">Eje: Mujer</string>
+
+    <string name="tvbajo">El IMC se encuentra dentro de un rango BAJO</string>
+    <string name="tvnormal">El IMC se encuentra dentro de un rango NORMAL</string>
+    <string name="tvrecnorm">Para mantener con un peso saludable a tu bebé recuerda:\n\n Hacer un seguimiento regular del peso: El registro regular es necesario para comprender el crecimiento y desarrollo del bebé y para controlar si es necesario un cambio en la dieta.\n\n
+        Tratar       de construir un plan de comidas: Comienza por hacer que tu bebé se siente con papá y mamá para las comidas y que poco a poco y a medida que crece, se ajuste a tu horario de comidas. Esto ayudará a crear una rutina y evitará comer a horas intempestivas.\n\n
+        No           des de comer al bebé cada vez que llora: ¡Los bebés lloran mucho! A veces porque tienen sueño, están cansados o simplemente abrumados, pero recuerda que todas las solicitudes de ayuda no se deben a que tengan hambre.\n\n
+        Fomentar ejercicios físicos como gatear, realizar pequeños movimientos de brazos y piernas, para ayudar a contruir y fortalecer la movilidad.\n\n
+        Incluir frutas frescas, verduras y cereales integrales en su dieta.
+    </string>
+    <string name="tvrecnormk">Recuerda que para mantener un peso saludable se requiere:\n\n
+        Garantizar las horas de sueño: No dormir lo suficiente se asocia con la obesidad, en parte porque el sueño inadecuado nos hace comer más y estar menos físicamente activos. Los niños necesitan dormir más que los adultos, y la cantidad de horas varía según la edad.\n\n
+    Desarrollar hábitos de alimentación saludable.\n\n
+    Disminuir el azúcar, aumentar el agua.\n\n
+    Vigilar el tamaño de sus porciones.\n\n
+    Ayudar a los niños a mantenerse activos: Dé a su hijo la oportunidad de correr y jugar por lo menos 1 hora al día.\n\n
+    Controlar el uso de dispositivos electrónicos: Los niños de 2 años o menos no deben ver televisión o usar un dispositivo electrónico. En su lugar, motive a los niños a encontrar actividades divertidas para hacer con los miembros de la familia o por su cuenta que simplemente impliquen más actividad.\n\n
+    Limitar el consumo de calorías: Reducir la disponibilidad de refrigerios con alto contenido de grasas y azúcar o salados puede ayudar a sus hijos a desarrollar hábitos de alimentación saludables.</string>
+    <string name="tvrecnorma">Para mantener un Índice de Masa Corporal normal es importante seguir recordando los siguientes aspectos:\n
+    Beber de 6 a 8 vasos de agua diarios.\n
+    Regular las horas de sueño.\n
+    Realizar actividad física, al menos 1 hora al día.\n
+    Evitar alimentos azucarados.\n
+    Comer más alimentos ricos en nutrientes, como aquellos con muchas vitaminas, minerales y fibra.\n
+    Encontrar formas más saludables de preparar los alimentos, como usar aceites más saludables para cocinar y hornear o asar a la parrilla en lugar de freír los alimentos.</string>
+    <string name="tvsobrepeso">El IMC se encuentra dentro de un rango de SOBREPESO</string>
+    <string name="tvobesidad">El IMC se encuentra dentro de un rango de OBESIDAD</string>
+    <string name="ivnormal">NORMAL</string>
+    <string name="al">ALIMENTOS PARA SUBIR DE PESO</string>
+    <string name="di">DIETAS</string>
+    <string name="eje">Ejercicios</string>
+
+
+    <string name="c">RECOMENDACIONES</string>
+    <string name="d">DIETAS</string>
+    <string name="e">EJERCICIOS</string>
+    <string name="rec">Para consultar recomendaciones y dietas dé clic en continuar</string>
+    <string name="rec1">Para consultar recomendaciones, dietas y ejercicios dé clic en los siguientes botones</string>
+
+    <string name="scroll">ScrollView</string>
+    <string name="bajo_babies"><b>¿QUÉ PUEDE LLEVAR AL BEBÉ A TENER BAJO PESO?</b> \n\n
+Cuando tienes un bebé con bajo peso, en primer lugar, se debe consultar al pediatra sobre la causa que genera la falta de aumento de peso. Si la causa es alimenticia es importante recordar que la leche materna es el mejor alimento para los bebés por su composición nutricional, biodisponibilidad de sus nutrientes, las ventajas inmunológicas, la presencia de hormonas y enzimas, factores de crecimiento y, por último y no menos importante, el factor psicológico.\n\n
+Si crees que tu bebé podría no estar cogiendo kilos de forma adecuada para su edad o ha tenido una bajada brusca de peso, debes acudir a tu pediatra. Este profesional realizará las pruebas o exámenes que considere oportunos para confirmar que el bebé no está cogiendo los kilos que se espera. Además, estos exámenes le ayudarán a establecer las causas de dicho bajo peso y cuál es la mejor forma para que engorde.
+
+Es posible que el pediatra acuda a la tabla de percentiles para saber en qué percentil está tu pequeño. Los percentiles son tablas que se usan para valorar el peso y la talla de los bebés teniendo en cuenta cuántas semanas, meses o años tengan.
+
+Acudir al pediatra no solo es necesario para guiarnos por la visión y la experiencia de un profesional, sino porque los padres muchas veces nos dejamos llevar por nuestra percepción.\n\n
+A menudo, tendemos a comparar a nuestro bebé con sus compañeros de escuela infantil o con otros bebés de la familia y sacamos conclusiones precipitadas (alejadas del rigor científico); tendemos a pensar que nuestro bebé es de bajo peso, sin tener en cuenta que cada niño tiene su ritmo de desarrollo y crecimiento. Para asegurarnos de que nuestro bebé está saludable, escucha los consejos del pediatra.</string>
+
+    <string name="sobre_babies">De acuerdo con las tablas de crecimiento de la World Health Organization (Organización Mundial de la Salud), se considera que un bebé con una relación peso-talla superior al percentil 98 tiene un peso alto para la talla.\n\n
+    Recuerda que los bebés necesitan una dieta con alto contenido de grasa para fomentar el crecimiento durante la infancia. Un bebé que es alimentado exclusivamente con leche materna obtiene cerca de la mitad de sus calorías diarias de la grasa de la leche materna. Como resultado, las restricciones calóricas para reducir el peso no se recomiendan para los bebés de 2 años o menos.\n\n
+    Sin embargo, el exceso de grasa y calorías puede seguir siendo una preocupación. Por ejemplo, el exceso de peso puede retrasar el gateo y la marcha, partes esenciales del desarrollo físico y mental del bebé. Aunque un bebé grande puede no convertirse en un niño con sobrepeso, un niño que es obeso a menudo sigue siendo obeso cuando es adulto.</string>
+    <string name="bajo_children">Es muy común tener dudas al respecto, sin embargo algunas veces no le prestamos la debida atención a este tema.\n\n
+A partir del primer año de vida hasta los 5 años, la velocidad con la que crecen los niños disminuye y luego aumenta nuevamente. Durante esta etapa (1 a 5 años) aparece una disminución normal del apetito y de la ingesta de alimentos, sin embargo, los padres suelen confundir este suceso natural con la deficiencia de peso. La deficiencia de peso es la ganancia de peso por debajo del límite recomendado para su edad. La ganancia promedio de peso adecuado
+        para un niño de 1 a 3 años es de 0.5 libras por mes; y en niños de 3 a 5 años es de 4.5 libras por año.\n\n
+        ¿POR QUÉ SE DA LA DEFICIENCIA DE PESO EN LOS NIÑOS?\n\n
+Hay muchos factores que determinan la deficiencia de peso en niños, como por ejemplo: prematuridad, bajo peso al nacer, ausencia o cese temprano de la lactancia materna, padecimiento continuo de enfermedades infecciosas, ingesta deficiente de nutrientes, presencia de parásitos, entre otros.
+Que el niño haya sido prematuro o haya nacido con bajo peso limita la ganancia de peso normal en el primer año de vida, sin embargo, con el aporte adecuado de nutrientes el niño puede llegar a desarrollarse hasta alcanzar su peso ideal. </string>
+
+    <string name="bajo_kids">Los niños pueden bajar de peso rápidamente debido a una serie de razones ambientales, médicas, físicas o psicológicas. Dado que hay muchos desencadenantes posibles, lo mejor es hablar con un pediatra sobre los síntomas, cuál es el peso saludable para su hijo y cómo avanzar. \n\n
+    Si la pérdida de peso es causada por una afección médica o es un efecto secundario de un medicamento, los síntomas variarán y serán específicos de esa causa. Entre los demás síntomas, se pueden incluir los siguientes:\n
+
+Estreñimiento. \n
+Deshidratación. \n
+Mareos o desmayos. \n
+Fatiga (cansancio extremo).\n
+Sensación de frío o baja temperatura corporal.\n
+Presión arterial baja.\n
+Malnutrición o malnutrición proteico-calórica.\n
+Retraso del crecimiento.\n
+Debilidad.
+    </string>
+    <string name="bajo_teenagers">La pérdida de peso en adolescentes puede ocurrir debido a varias afecciones médicas, efectos secundarios de los medicamentos o cambios físicos y en el estilo de vida: \n\n
+    Niveles de actividad: uno de los factores que más contribuyen a un desequilibrio de peso es un aumento drástico en los niveles de actividad y una disminución simultánea en el consumo de alimentos. Para un buen estado general de salud, se requiere una dieta y un nivel de actividad equilibrados.\n\n
+    Problemas dentales:
+    El dolor por problemas dentales o técnicas de cepillado inadecuadas puede provocar disminución
+    del apetito o sensibilidad a la temperatura.\n\n
+    Depresión o ansiedad.\n
+    Enfermedades crónicas.\n\n
+    Pubertad:
+    El aumento de hormonas en el cuerpo de un niño durante la pubertad (entre los 10 y los 14 años
+    para las niñas y entre los 12 y los 16 años para los niños) conduce al crecimiento y el
+    adelgazamiento drástico de las áreas de “grasa del bebé”.\n\n
+    Abuso de sustancias:
+    el abuso de estimulantes (cocaína o éxtasis), depresores (alcohol o marihuana) y narcóticos
+    (medicamentos recetados) puede provocar una pérdida de peso rápida y significativa.</string>
+    <string name="normal_children">Una buena nutrición es una parte importante del estilo de vida saludable de su hijo. Durante los años previos a empezar la escuela, su hijo debería comer los mismos alimentos que el resto de la familia.\n\n
+Ofrezca una variedad de alimentos saludables. Alimentos saludables tales como, verduras y frutas frescas, productos lácteos (leche, yogur, quesos) con bajo contenido de grasa o sin grasa, carnes magras (pollo, pavo, pescado, hamburguesa magra) y pan y cereales integrales.\n\n
+No espere que el niño "limpie el plato". Sirva porciones adecuados, pero no espere que su niño siempre se coma todo lo que le sirva. Si puede, deje que su niño elija el tamaño de su porción.\n\n
+Ofrezca los alimentos a horarios establecidos y coman juntos. Sirva las comidas y las meriendas a horas habituales. Cuando sea la hora del refrigerio, merienda o comida, apague el televisor y siéntense juntos a la mesa a comer. Esto ayuda a crear un ambiente sereno a la hora de consumir los alimentos.\n\n
+    Restrinja los alimentos procesados y las bebidas azucaradas.Otro trabajo de los padres es limitar cuántos alimentos procesados hay en el hogar y limitar también las comidas rápidas. \n\n
+    Las mejores bebidas son el agua y la leche.\n\n
+    Porciones pequeñas para niños pequeños. Anime a su niño a que elija el tamaño de su porción, pero use platos o recipientes pequeños.
+</string>
+    <string name="normal_teen">La clave para alcanzar y mantener un peso saludable está en hacer ejercicio regularmente y tener unos buenos hábitos alimentarios. Algunas personas creen que hacer ejercicio y seguir unos buenos hábitos alimentarios requiere mucho esfuerzo y planificación pero esto no es cierto. De hecho, la mejor forma de modificar los hábitos cotidianos es haciendo pequeños cambios
+        que gradualmente irán formando parte de nuestra rutina diaria.\n\n
+        Entre las recomendaciones son:\n
+        Ejercicio regular de 60 minutos diarios para reducir el estrés, ansiedad y depresión.\n
+        Regular las horas de sueño.\n
+        Crear hábitos de alimentación saludable.\n
+        Evitar alimentos azucarados.\n
+    Comer más alimentos ricos en nutrientes, como aquellos con muchas vitaminas, minerales y fibra.\n
+    Encontrar formas más saludables de preparar los alimentos, como usar aceites más saludables para cocinar y hornear o asar a la parrilla en lugar de freír los alimentos.
+
+
+    </string>
+    <string name="sobre_children">Al menos 1 de cada 20 niños y niñas menores de 5 años padece obesidad, lo que favorece el sobrepeso durante el resto de su vida y los pone en riesgo de sufrir enfermedades circulatorias, del corazón y de los riñones, diabetes, entre otras.\n\n
+        Las causas principales de la obesidad y el sobrepeso en niñas y niños son el consumo de alimentos procesados con altos niveles de azúcar, grasas trans y sal, así como de bebidas azucaradas que son muy fáciles de adquirir por su amplia distribución, bajo costo y su promoción en medios masivos. La cantidad de actividad física que realizan los niños, niñas y adolescentes también ha disminuido y es un factor que amplifica el problema.</string>
+    <string name="sobre_kids">La Organización Mundial de Salud (OMS) advierte que los niños obesos y con sobrepeso tienden a seguir siendo obesos en la edad adulta y tienen más probabilidades de padecer a edades más tempranas enfermedades no transmisibles como la diabetes y las enfermedades cardiovasculares. El sobrepeso, la obesidad y las enfermedades conexas son en gran medida prevenibles. Por consiguiente, hay que dar una gran prioridad a la prevención de la obesidad infantil.\n\n
+        CAUSAS\n\n
+
+El incremento de estos casos es alarmante, y estas son las causas principales de esta epidemia mundial:\n
+    La falta de actividad física, el uso excesivo “pantallas”, la cultura de los juegos, pero también la falta de tiempo y comprensión de las consecuencias.\n
+    La gran exposición a publicidades de golosinas y alimentos poco saludables. Dos de cada tres publicidades corresponden a este tipo de productos.\n
+    Pobre o nula regulación en Argentina sobre el packaging de los productos orientados a los chicos (Un tigre fuerte y feliz con energía come cereales cocidos con alta carga de azúcar).\n
+    Menor disponibilidad de tiempo para preparar comidas caseras, comer en familia… chicos más expuestos a alimentos ultra-procesados e hipercalóricos, con altos contenidos de azucares y sodio.</string>
+
+    <string name="sobre_teen">El sobrepeso y la obesidad son cada día más frecuentes en nuestra sociedad. Ambas situaciones tienen un impacto negativo en la salud física y mental de los adolescentes, tanto a corto como a largo plazo.\n\n
+    La obesidad y sus complicaciones constituyen un problema importante de salud pública, por esto es necesario la prevención desde edades muy precoces, la detección en las familias de riesgo y por la evaluación clínica y antropométrica seriada en las consultas de pediatría.\n\n
+     El exceso de peso se da cuando se ingieren más calorías de las que el cuerpo necesita en relación a la edad y al ejercicio realizado.
+    Los adolescentes han abandonado paulatinamente la actividad física, el deporte, y los juegos al aire libre, permaneciendo más tiempo frente a las pantallas: celulares, computadoras, televisión.\n
+    Esto resulta en un estilo de vida sedentario y poco saludable, que constituye una de las principales causas de la obesidad y el sobrepeso.\n\n
+    Si se mantiene el sobrepeso a lo largo del tiempo, pueden aparecer enfermedades como diabetes, hipertensión, problemas osteo-articulares, cardiovasculares y otras.\n
+    En lo emocional es frecuente que los adolescentes con sobrepeso u obesidad sufran aislamiento, tristeza, malhumor, dificultades de integración e incluso hostigamiento de sus pares.\n
+    A menudo las conductas alimentarias se relacionan con disfunciones familiares, problemas de autoestima y sociabilidad que, de no ser abordados, pueden tener consecuencias en la vida social y afectiva.\n
+    En la actualidad los medios promueven la delgadez como meta, ligada al éxito social, como algo sobrevalorado, lo que lleva en algunos casos a realizar dietas excesivas y no controladas.</string>
+    <string name="bajo_adults">Pese a que en muchas ocasiones estar delgado es signo de salud, tener bajo peso puede ser algo preocupante. Esto sucede cuando se debe a una mal nutrición, un embarazo o a otros problemas de salud.\n\n
+    Una persona tiene bajo peso cuando se encuentra por debajo de un valor saludable.\n\n
+    El bajo peso puede ser el síntoma de una patología subyacente. En caso de una pérdida de peso inexplicada, es fundamental realizar un diagnóstico médico.\n\n
+    Por otro lado, el peso bajo puede ser una condición causal primaria. Las personas con esta condición pueden tener un sistema inmunológico débil, así como una pobre condición física, haciéndolos propensos a padecer infecciones.\n\n
+    Otros riesgos que puede causar el bajo peso son:\n
+    Problemas de fertilidad, especialmente en mujeres.\n
+    Problemas durante el embarazo.\n
+    Anemia.\n
+    Pérdida del cabello.\n
+Mayor riesgo de sufrir osteoporosis.\n\n
+        ¿CUÁL ES LA CAUSA DEL BAJO PESO?\n\n
+        La causa más frecuente de bajo peso es la desnutrición, debido a la ausencia de alimentos adecuados. Esta causa de bajo peso puede ser debido a múltiples factores, como un trastorno alimentario, diabetes o glándula tiroides hiperactiva.\n\n
+        El bajo peso puede ser consecuencia de una pérdida de apetito, motivada por:\n
+
+Depresión, estrés o ansiedad.\n
+Cáncer.\n
+Enfermedades o infecciones crónicas.\n
+Fármacos.\n
+Drogas ilícitas.\n
+</string>
+    <string name="sobre_adults">¿QUÉ CAUSA EL SOBREPESO Y LA OBESIDAD?\n\n
+La causa fundamental del sobrepeso y la obesidad es un desequilibrio energético entre calorías consumidas y gastadas. A nivel mundial ha ocurrido lo siguiente:
+    un aumento en la ingesta de alimentos de alto contenido calórico que son ricos en grasa; y
+un descenso en la actividad física debido a la naturaleza cada vez más sedentaria de muchas formas de trabajo, los nuevos modos de transporte y la creciente urbanización.\n\n
+    A menudo los cambios en los hábitos alimentarios y de actividad física son consecuencia de cambios ambientales y sociales asociados al desarrollo y de la falta de políticas de apoyo en sectores como la salud; la agricultura; el transporte; la planificación urbana; el medio ambiente; el procesamiento, distribución y comercialización de alimentos, y la educación.\n\n
+        ¿CUÁLES SON LAS CONSECUENCIAS COMUNES DEL SOBREPESO Y LA OBESIDAD PARA LA SALUD?\n\n
+        Un IMC elevado es un importante factor de riesgo de enfermedades no transmisibles, como las siguientes:\n
+
+Las enfermedades cardiovasculares (principalmente las cardiopatías y los accidentes cerebrovasculares), que fueron la principal causa de muertes en 2012.\n
+La diabetes.\n
+Los trastornos del aparato locomotor (en especial la osteoartritis, una enfermedad degenerativa de las articulaciones muy discapacitante).\n
+Algunos cánceres (endometrio, mama, ovarios, próstata, hígado, vesícula biliar, riñones y colon).\n\n
+    El riesgo de contraer estas enfermedades no transmisibles crece con el aumento del IMC.</string>
+</resources>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NutriScale"
+        tools:targetApi="31">
+        <activity
+            android:name=".splash"
+            android:exported="false" />
+        <activity
+            android:name=".ejercicios_adults_obesidad"
+            android:exported="false" />
+        <activity
+            android:name=".ejercicios_adults_sobre"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_obesidad_adults"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_adults_sobre"
+            android:exported="false" />
+        <activity
+            android:name=".rec_normal_teen"
+            android:exported="false" />
+        <activity
+            android:name=".rec_normal_kids"
+            android:exported="false" />
+        <activity
+            android:name=".rec_normal_children"
+            android:exported="false" />
+        <activity
+            android:name=".rec_normal_babies"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_adults_bajo"
+            android:exported="false" />
+        <activity
+            android:name=".obesidad_adults"
+            android:exported="false" />
+        <activity
+            android:name=".normal_adults"
+            android:exported="false" />
+        <activity
+            android:name=".bajo_adults"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_obesidad_children"
+            android:exported="false" />
+        <activity
+            android:name=".ejercicios_children_obesidad"
+            android:exported="false" />
+        <activity
+            android:name=".ejercicios_children_sobre"
+            android:exported="false" />
+        <activity
+            android:name=".normal_children"
+            android:exported="false" />
+        <activity
+            android:name=".bajo_adultos"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_children_sobre"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_children_bajo"
+            android:exported="false" />
+        <activity
+            android:name=".ejercicios_teen_obesidad"
+            android:exported="false" />
+        <activity
+            android:name=".ejercicios_babies_obesidad"
+            android:exported="false" />
+        <activity
+            android:name=".ejercicios_kids_obesidad"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_obesidad_teen"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_obesidad_kids"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_obesidad_babies"
+            android:exported="false" />
+        <activity
+            android:name=".ejercicios_teen_sobre"
+            android:exported="false" />
+        <activity
+            android:name=".ejercicios_kids_sobre"
+            android:exported="false" />
+        <activity
+            android:name=".ejercicios_babies_sobre"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_teen_sobre"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_kid_sobre"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_baby_sobre"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_teen_bajo"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_kids_bajo"
+            android:exported="false" />
+        <activity
+            android:name=".dieta_babies_bajo"
+            android:exported="false" />
+        <activity
+            android:name=".obesidad_kids"
+            android:exported="false" />
+        <activity
+            android:name=".obesidad_children"
+            android:exported="false" />
+        <activity
+            android:name=".obesidad_babies"
+            android:exported="false" />
+        <activity
+            android:name=".sobrepeso_adults"
+            android:exported="false" />
+        <activity
+            android:name=".sobrepeso_kids"
+            android:exported="false" />
+        <activity
+            android:name=".sobrepeso_children"
+            android:exported="false" />
+        <activity
+            android:name=".sobrepeso_babies"
+            android:exported="false" />
+        <activity
+            android:name=".normal_kids"
+            android:exported="false" />
+        <activity
+            android:name=".normal_babies"
+            android:exported="false" />
+        <activity
+            android:name=".obesidad_teenagers"
+            android:exported="false" />
+        <activity
+            android:name=".sobrepeso_teenagers"
+            android:exported="false" />
+        <activity
+            android:name=".normal_teenagers"
+            android:exported="false" />
+        <activity
+            android:name=".bajo_teenagers"
+            android:exported="false" />
+        <activity
+            android:name=".bajo_kids"
+            android:exported="false" />
+        <activity
+            android:name=".bajo_children"
+            android:exported="false" />
+        <activity
+            android:name=".bajo_babies"
+            android:exported="false" />
+        <activity
+            android:name=".teenagers"
+            android:exported="false" />
+        <activity
+            android:name=".kids"
+            android:exported="false" />
+        <activity
+            android:name=".babies"
+            android:exported="false" />
+        <activity
+            android:name=".referencias"
+            android:exported="false" />
+        <activity
+            android:name=".adults"
+            android:exported="false" />
+        <activity
+            android:name=".children"
+            android:exported="false" />
+        <activity
+            android:name=".Inicio"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
