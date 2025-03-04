@@ -10,9 +10,9 @@
 - **Exercise Suggestions**: Offers suitable types of exercises to improve the user's physical condition.
 - **Intuitive Interface**: User-friendly and easy-to-use design for an optimal user experience.
 
-![Screenshot_20240627-230621 1](https://github.com/user-attachments/assets/8759b632-f51f-4ae9-88bd-495bcce77ace)
-![Screenshot_20240627-230511 1](https://github.com/user-attachments/assets/39e30c65-f9c6-4299-a2bc-0202f23ffdff)
 ![Screenshot_20240627-230238 1](https://github.com/user-attachments/assets/518fa5fa-00e8-42fb-99a1-dfafdfb058f2)
+![Screenshot_20240627-230511 1](https://github.com/user-attachments/assets/39e30c65-f9c6-4299-a2bc-0202f23ffdff)
+![Screenshot_20240627-230621 1](https://github.com/user-attachments/assets/8759b632-f51f-4ae9-88bd-495bcce77ace)
 
 ## Technologies used
 
